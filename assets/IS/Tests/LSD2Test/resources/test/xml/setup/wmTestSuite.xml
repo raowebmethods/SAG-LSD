@@ -10,9 +10,9 @@
             </expected>
         </service>
     </webMethodsTestCase>
-    <webMethodsTestCase name="getPublicHoliday_CA">
+    <webMethodsTestCase name="getPublicHoliday_CA_MOCK">
         <mock folder="LSD2.services" name="getholiday">
-            <pipeline filename="resources/test/xml/data/CA_Output.xml"/>
+            <pipeline filename="resources/test/xml/data/CA_Mock_Output.xml"/>
         </mock>
         <service folder="LSD2.services" name="IsTodayPublicHoliday">
             <input>
@@ -20,6 +20,19 @@
             </input>
             <expected>
                 <file filename="resources/test/xml/data/CA_Output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase name="getPublicHoliday_AT_MOCK">
+        <mock folder="LSD2.services" name="getholiday">
+            <pipeline filename="resources/test/xml/data/AT_Mock_Output.xml"/>
+        </mock>
+        <service folder="LSD2.services" name="IsTodayPublicHoliday">
+            <input>
+                <file filename="resources/test/xml/data/AT_Input.xml"/>
+            </input>
+            <expected>
+                <file filename="resources/test/xml/data/AT_Output.xml"/>
             </expected>
         </service>
     </webMethodsTestCase>

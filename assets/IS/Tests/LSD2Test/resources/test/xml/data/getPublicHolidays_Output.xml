@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <IDataXMLCoder version="1.0">
-  <record javaclass="com.wm.util.Values">
-    <value name="url">https://date.nager.at/Api/v2/NextPublicHolidays/US</value>
+  <record javaclass="com.wm.util.Values">    
     <array name="publicHolidays" type="record" depth="1">
       <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="date">2021-05-31</value>
