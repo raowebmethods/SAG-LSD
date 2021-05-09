@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.util.Values">
+    <array name="publicHolidays" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-05-24</value>
+        <value name="localName">National Patriots' Day</value>
+        <value name="name">National Patriots' Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-QC</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-05-24</value>
+        <value name="localName">Victoria Day</value>
+        <value name="name">Victoria Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-06-21</value>
+        <value name="localName">National Aboriginal Day</value>
+        <value name="name">National Aboriginal Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NT</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-06-24</value>
+        <value name="localName">Discovery Day</value>
+        <value name="name">Discovery Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NL</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-06-24</value>
+        <value name="localName">FÃªte nationale du QuÃ©bec</value>
+        <value name="name">National Holiday</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-QC</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-07-01</value>
+        <value name="localName">Canada Day</value>
+        <value name="name">Canada Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-07-12</value>
+        <value name="localName">Orangemen's Day</value>
+        <value name="name">Orangemen's Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NL</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-08-02</value>
+        <value name="localName">Civic Holiday</value>
+        <value name="name">Civic Holiday</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-BC</value>
+          <value>CA-MB</value>
+          <value>CA-NL</value>
+          <value>CA-NT</value>
+          <value>CA-NU</value>
+          <value>CA-ON</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-08-02</value>
+        <value name="localName">Heritage Day</value>
+        <value name="name">Heritage Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-AB</value>
+          <value>CA-YT</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-08-02</value>
+        <value name="localName">New Brunswick Day</value>
+        <value name="name">New Brunswick Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NB</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-08-02</value>
+        <value name="localName">Natal Day</value>
+        <value name="name">Natal Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NS</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-08-16</value>
+        <value name="localName">Gold Cup Parade Day</value>
+        <value name="name">Gold Cup Parade Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-PE</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-08-16</value>
+        <value name="localName">Discovery Day</value>
+        <value name="name">Discovery Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-YT</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-09-06</value>
+        <value name="localName">Labour Day</value>
+        <value name="name">Labour Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-10-11</value>
+        <value name="localName">Thanksgiving</value>
+        <value name="name">Thanksgiving</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-11-11</value>
+        <value name="localName">Armistice Day</value>
+        <value name="name">Armistice Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NL</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-11-11</value>
+        <value name="localName">Remembrance Day</value>
+        <value name="name">Remembrance Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-AB</value>
+          <value>CA-BC</value>
+          <value>CA-NB</value>
+          <value>CA-NT</value>
+          <value>CA-NS</value>
+          <value>CA-NU</value>
+          <value>CA-PE</value>
+          <value>CA-SK</value>
+          <value>CA-YT</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-12-25</value>
+        <value name="localName">Christmas Day</value>
+        <value name="name">Christmas Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2021-12-26</value>
+        <value name="localName">St. Stephen's Day</value>
+        <value name="name">St. Stephen's Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-AB</value>
+          <value>CA-NB</value>
+          <value>CA-NS</value>
+          <value>CA-ON</value>
+          <value>CA-PE</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-01-01</value>
+        <value name="localName">New Year's Day</value>
+        <value name="name">New Year's Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-02-21</value>
+        <value name="localName">Louis Riel Day</value>
+        <value name="name">Louis Riel Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-MB</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-02-21</value>
+        <value name="localName">Islander Day</value>
+        <value name="name">Islander Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-PE</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-02-21</value>
+        <value name="localName">Heritage Day</value>
+        <value name="name">Heritage Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NS</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-02-21</value>
+        <value name="localName">Family Day</value>
+        <value name="name">Family Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-AB</value>
+          <value>CA-BC</value>
+          <value>CA-NB</value>
+          <value>CA-ON</value>
+          <value>CA-SK</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-03-17</value>
+        <value name="localName">Saint Patrick's Day</value>
+        <value name="name">Saint Patrick's Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NL</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-04-15</value>
+        <value name="localName">Good Friday</value>
+        <value name="name">Good Friday</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">true</jboolean>
+        <null name="counties"/>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-04-18</value>
+        <value name="localName">Easter Monday</value>
+        <value name="name">Easter Monday</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">false</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-AB</value>
+          <value>CA-PE</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="date">2022-04-23</value>
+        <value name="localName">Saint George's Day</value>
+        <value name="name">Saint George's Day</value>
+        <value name="countryCode">CA</value>
+        <jboolean name="fixed">true</jboolean>
+        <jboolean name="global">false</jboolean>
+        <array name="counties" type="value" depth="1">
+          <value>CA-NL</value>
+        </array>
+        <null name="launchYear"/>
+        <value name="type">Public</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
