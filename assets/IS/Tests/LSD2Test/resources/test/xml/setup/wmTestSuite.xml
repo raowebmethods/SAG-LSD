@@ -11,8 +11,8 @@
         </service>
     </webMethodsTestCase>
     <webMethodsTestCase name="getPublicHoliday_CA">
-        <mock folder="" name="">
-            <pipeline/>
+        <mock folder="LSD2.services" name="getholiday">
+            <pipeline filename="resources/test/xml/data/CA_Output.xml"/>
         </mock>
         <service folder="LSD2.services" name="IsTodayPublicHoliday">
             <input>
